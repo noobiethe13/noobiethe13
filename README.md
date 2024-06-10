@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Debayan Das</h1>
-## 💫 About Me:
+
+# 💫 About Me:
 🔭 I’m currently working on Full Stack App & Web Development<br>👯 I’m looking to collaborate on Full Stack & Machine Learning Projects<br>🌱 I’m currently learning Machine Learning & DevOps<br>⚡ Fun fact - I love everything about tech but my brain is more of a potato than CPU when it comes to exploring it all.
 
 <br><p align="left"> <img src="https://komarev.com/ghpvc/?username=noobiethe13&label=Profile%20views&color=0e75b6&style=flat" alt="noobiethe13" /> </p>
