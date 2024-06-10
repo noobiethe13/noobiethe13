@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Debayan Das</h1>
 # 💫 About Me:
-🔭 I’m currently working on Full Stack App & Web Development<br>👯 I’m looking to collaborate on Full Stack & Machine Learning Projects<br>🌱 I’m currently learning Machine Learning & DevOps<br>⚡ Fun fact - I love everything about tech but my brain is more of a potato than CPU when it comes to exploring it all.
+🔭 I’m currently working on Full Stack App & Web Development<br>👯 I’m looking to collaborate on Full Stack & Machine Learning Projects<br>🌱 I’m currently learning Machine Learning & DevOps<br>⚡ Fun fact - I love everything about tech but my brain is more of a potato than CPU when it comes to exploring it all.<br>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noobiethe13&label=Profile%20views&color=0e75b6&style=flat" alt="noobiethe13" /> </p>
-[![](https://visitcount.itsvg.in/api?id=noobiethe13&icon=5&color=11)](https://visitcount.itsvg.in)
+<br><p align="left"> <img src="https://komarev.com/ghpvc/?username=noobiethe13&label=Profile%20views&color=0e75b6&style=flat" alt="noobiethe13" /> </p>
+<br><img src="https://visitcount.itsvg.in/api?id=noobiethe13&icon=5&color=11"/>
 
-- 📫 How to reach me **debayandas1211@gmail.com**
+<br>- 📫 How to reach me **debayandas1211@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/debayandas13) 
