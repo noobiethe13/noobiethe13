@@ -4,7 +4,6 @@
 
 
 <br><p align="left"> <img src="https://komarev.com/ghpvc/?username=noobiethe13&label=Profile%20views&color=0e75b6&style=flat" alt="noobiethe13" /> </p>
-<br><img src="https://visitcount.itsvg.in/api?id=noobiethe13&icon=5&color=11"/>
 
 <br>- 📫 How to reach me **debayandas1211@gmail.com**
 
