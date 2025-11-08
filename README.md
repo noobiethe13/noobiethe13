@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noobiethe13&label=Profile%20views&color=0e75b6&style=flat" alt="noobiethe13" /> </p>
 
-- 📫 How to reach me **debayandas1211@gmail.com**
+- 📫 How to reach me **debayancodes@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/debayandas13) 
