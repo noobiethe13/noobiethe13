@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm Debayan Das</h1>
-<h3 align="center">Software Engineer @ Breakthrough | GCP & AWS DevOps | Backend Automation</h3>
-<h4 align="center">I build reliable backend systems and automate cloud workflows.</h4>
+<h3 align="center">Software Engineer @ Breakthrough | GCP & AWS DevOps | Data Engineering</h3>
+<h4 align="center">I build reliable backend systems, cloud workflows, and data pipelines.</h4>
 
 ---
 
 ## 💫 About Me
-I'm a backend and DevOps engineer who enjoys making things run smoothly and automatically.
+I'm a Data and DevOps engineer who enjoys making things run smoothly and automatically.
 
-At **Breakthrough Apps**, I focus on building backend systems, cloud pipelines, and automation that help products scale reliably.
+At **Breakthrough Apps**, I focus on building backend systems, data pipelines, and automation that help products scale reliably.
 
 Some highlights:
-- Built Docker, n8n, and Terraform workflows to automatically set up new projects on GCP and Firebase, handling deployment and configuration for Play Store, App Store, and Stripe.  
 - Improved app stability, increasing crash-free user rate from **66% to 94%** by improving observability and error tracking.  
 - Automated analytics and billing using **BigQuery** and **Cloud Scheduler**, cutting hours of manual reporting work.  
-- Prototyped a unified backend for subscription management across App Store, Play Store, and RevenueCat.
+- Built unified backend for subscription & product management across App Store, Play Store, Stripe, and RevenueCat.
 
 📫 **debayancodes@gmail.com**  
 🔗 [LinkedIn](https://linkedin.com/in/debayandas13)
