@@ -10,7 +10,8 @@ I'm a Data and DevOps engineer who enjoys making things run smoothly and automat
 At **Breakthrough Apps**, I focus on building backend systems, data pipelines, and automation that help products scale reliably.
 
 Some highlights:
-- Improved app stability, increasing crash-free user rate from **66% to 94%** by improving observability and error tracking.  
+- Improved app stability, increasing crash-free user rate from **66% to 94%** by improving observability and error tracking.
+- Built ETL pipelines to reliably report data from Stripe & RevenueCat, and reflect key business metrics.
 - Automated analytics and billing using **BigQuery** and **Cloud Scheduler**, cutting hours of manual reporting work.  
 - Built unified backend for subscription & product management across App Store, Play Store, Stripe, and RevenueCat.
 
