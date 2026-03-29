@@ -1,50 +1,48 @@
-<h1 align="center">Hi 👋, I'm Debayan Das</h1>
-<h3 align="center">Software Engineer @ Breakthrough | GCP & AWS DevOps | Data Engineering</h3>
-<h4 align="center">I build reliable backend systems, cloud workflows, and data pipelines.</h4>
+<h3 align="center">Debayan Das</h3>
+<p align="center">Software Engineer · GCP · Data Pipelines · Flutter</p>
+<p align="center">
+  <a href="mailto:debayancodes@gmail.com">debayancodes@gmail.com</a> ·
+  <a href="https://linkedin.com/in/debayandas13">LinkedIn</a> ·
+  <a href="https://debfolio.netlify.app">Portfolio</a>
+</p>
 
 ---
 
-## 💫 About Me
-I'm a Data and DevOps engineer who enjoys making things run smoothly and automatically.
+Software Engineer at Breakthrough Apps. I build ETL pipelines and backend systems on GCP, and maintain the Flutter apps that run on top of them.
 
-At **Breakthrough Apps**, I focus on building backend systems, data pipelines, and automation that help products scale reliably.
+At Breakthrough:
 
-Some highlights:
-- Improved app stability, increasing crash-free user rate from **66% to 94%** by improving observability and error tracking.
-- Built ETL pipelines to reliably report data from Stripe & RevenueCat, and reflect key business metrics.
-- Automated analytics and billing using **BigQuery** and **Cloud Scheduler**, cutting hours of manual reporting work.  
-- Built unified backend for subscription & product management across App Store, Play Store, Stripe, and RevenueCat.
+- ETL pipelines on BigQuery pulling billing and analytics data from Stripe, RevenueCat, and Firebase
+- Unified backend for subscription management across App Store, Play Store, Stripe, and RevenueCat
+- Crash-free sessions from 66% to 94% through structured logging and error handling
+- Serverless automation on Cloud Functions, cutting manual ops work by about half
 
-📫 **debayancodes@gmail.com**  
-🔗 [LinkedIn](https://linkedin.com/in/debayandas13)
+Before that: built a hyperlocal commerce platform at Locamart, took over product management there, then went solo on a security staff operations portal from spec to deployment.
 
----
-
-## 🧠 Core Skills
-**Cloud & DevOps:** GCP (BigQuery, Cloud Functions, Firebase), AWS (Lambda, DynamoDB, S3), Terraform, Docker, GitHub Actions, Codemagic  
-**Backend:** Django, Node.js, Firebase, NoSQL Databases  
-**Automation:** n8n, Python scripting, CI/CD pipelines  
-**Mobile:** Flutter app development with production integrations  
+Got into programming in 2019 after finding the source code of an anime streaming app on GitHub and spending an afternoon trying to understand how it worked.
 
 ---
 
-## 🛠️ Tech Stack
+**Stack**
+
 ![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%237B42BC.svg?style=flat&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase)
-![BigQuery](https://img.shields.io/badge/BigQuery-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![BigQuery](https://img.shields.io/badge/BigQuery-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%237B42BC.svg?style=flat&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazonaws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-%23EA4C89.svg?style=flat&logo=n8n&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=noobiethe13&theme=nightowl&hide_border=false)  
+**Stats**
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=noobiethe13&theme=nightowl&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=noobiethe13&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://komarev.com/ghpvc/?username=noobiethe13&color=blueviolet&style=flat)
